@@ -24,7 +24,7 @@ FLAGS = None
 MAX_NUM_IMAGES_PER_CLASS = 2 ** 27 - 1  # ~134M
 
 def create_image_lists():
-    image_dir='/home/rick/derma/dataset'
+    image_dir='/derma/dataset'
     testing_percentage=20
 
 
